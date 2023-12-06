@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name= "viewport" content="width=device-width, initial-scale=1.0">
+    <title>Julia's Journal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #f0ffff;
+        }
+
+        nav {
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+    </style>
+    
+</head>
+<body>
+
+    <header>
+        <h1>My Notebook</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="Joyful.html">Joyful Moments</a></li>
+            <li><a href="Sad.html">Sad Moments</a></li>
+            <li><a href="Angry.html">Angry Moments</a></li>
+            <li><a href="Anxious.html">Anxious Moments</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h2>Hello Julia?</h2>
+        <p>Last Time you where joyful are you still feeling that way?.</p>
+    </section>
+
+    <section>
+        <h2>Affrimation</h2>
+        <p>Positivty is always light at the end of the tunnel.</p>
+    </section>
+
+    <section>
+        <h2>Recent Journal Moment</h2>
+        <pre>
+
+               <h2><mark>Joyous</mark></h2>
+<p>Today was super exciting.</p>
+<p>I was able to go to the beach, surf with my friends, and build sand castles.</p>
+<p>The beach was so satisfying with the sounds of the water crashing and the waves roaring; it reminded me of the asmr sound activity I did last week<p>
+title
+        
+        </pre>
+    </section>
+
+    <section>
+        <h2>Activites</h2>
+        <p> Here's the asmr sound activity you did last time <p>
+     <p><a href="https://www.youtube.com/watch?v=vPhg6sc1Mk4">ASMR Sound activity</a></p>
+
+<hr>
+
+<hr>
+    </section>
+
+    <footer>
+        <p> © 2023 Mind Over Matter</p>
+    </footer>
+
+</body>
+</html>
